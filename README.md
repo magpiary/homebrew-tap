@@ -2,6 +2,12 @@
 
 [Magpiary](https://magpiary.com) keeps the posts you save in a searchable library on your Mac.
 
+Newer versions of Homebrew ask you to trust a third-party tap once. If it says it refuses to load from an untrusted tap, run:
+
+```bash
+brew trust magpiary/tap
+```
+
 **The Mac app (recommended)**
 
 ```bash
