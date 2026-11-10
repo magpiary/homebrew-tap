@@ -3,8 +3,8 @@
 class Magpiary < Formula
   desc "Turns posts shared from your iPhone into a searchable library on your Mac"
   homepage "https://github.com/magpiary/magpiary"
-  url "https://github.com/magpiary/magpiary/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "c00d71dcca062db3e1f4e3d9ef566a0f65ec0d3312075121da61ba89c9a1e8ab"
+  url "https://github.com/magpiary/magpiary/archive/refs/tags/v0.1.7.tar.gz"
+  sha256 "495fb001d407e560e6747412c7c1440aaa99df099b10e99c034dfdabae7c8024"
   license "MIT"
 
   depends_on "deno" # YouTube needs a JavaScript runtime
